@@ -1,4 +1,4 @@
-# Testes
+# Testes Unitários
 Exercícios de teste , utilizando jest.
 - funções randomicas 
 - boolean
